@@ -1,3 +1,3 @@
 # my-first-project
 
-hdhfjnxfyjfx
+this is an example project
